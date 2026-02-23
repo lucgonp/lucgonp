@@ -97,8 +97,8 @@ timeline
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucgonp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucgonp&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucgonp&theme=github_dark" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucgonp&theme=github_dark" height="180em"/>
 
 <br/>
 
