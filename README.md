@@ -31,6 +31,12 @@ Minha atuação é focada em transformar a qualidade em um diferencial competiti
 
 ---
 
+### 🛠️ Skill Set & Toolbelt
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,python,cypress,playwright,postman,azure,docker,githubactions,postgres,notion,figma&theme=dark)](https://skillicons.dev)
+
+---
+
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/lucgonp/))
