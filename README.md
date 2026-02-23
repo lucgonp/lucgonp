@@ -135,15 +135,19 @@ timeline
 | ❌ **Cancelamentos por lentidão** | Recorrentes | Redução significativa | **Retenção de clientes** |
 | 🔍 **Visibilidade de Cobertura** | Desconhecida | **% monitorada em tempo real** | **Decisões baseadas em dados** |
 
-</div>
+<br/>
 
-<div align="center">
+### 📉 Tendência de Cancelamentos por Bug (Mensal)
 
+```mermaid
+xychart-beta
+    title "Tendência de Cancelamentos por Bug"
+    x-axis [Jan, Fev, Mar, Abr, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez]
+    y-axis "Quantidade" 0 --> 30
+    line [30, 23, 22, 19, 10, 5, 3, 3, 3, 0, 0, 0]
 ```
-⚡ 15 dias → 3x/dia        ✅ Churn reduzido           📊 Cobertura monitorada
-────────────────────        ──────────────────           ───────────────────────
-Deploy mais rápido          Clientes retidos             Times orientados a dados
-```
+
+*"A redução drástica nos cancelamentos foi resultado direto da implementação de uma cultura de Shift-Left Testing e automação estratégica."*
 
 </div>
 
