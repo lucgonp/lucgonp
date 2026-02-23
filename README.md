@@ -22,7 +22,7 @@
 
 Sou **Lucas Gontijo**, especialista em Qualidade de Software com atuação estratégica como **Head of QA na Sittax** e **Consultor de Qualidade** para empresas como **IF Goiano**, **Bytoken** e **SuitPay**.
 
-Minha missão é simples: **transformar qualidade em diferencial competitivo**. Faço isso unindo pensamento estratégico, rigor técnico e uma cultura de qualidade que permeia toda a organização — do código ao produto final.
+Minha missão é simples: **transformar qualidade em diferencial competitivo**. Faço isso unindo pensamento estratégico, rigor técnico e uma cultura de qualidade que permeia toda a organização do código ao produto final.
 
 ```
 🎯  Foco em resultados mensuráveis, não apenas em testes.
