@@ -79,19 +79,21 @@ Minha missão é simples: **transformar qualidade em diferencial competitivo**. 
 ```mermaid
 timeline
     title Trajetória Acadêmica
-    2023 : Pós-Graduação em Engenharia e Qualidade de Software
-         : Senac Brasil
-    2024 : Bacharelado em Administração de Empresas
-         : IPOG
-    2024 : Bacharelado em Letras - Francês
-         : Universidade Federal de Goiás (UFG)
-    2025 : MBA em Engenharia de Software
-         : USP/Esalq (Em andamento)
+    2017-2021 : Bacharelado em Administração de Empresas
+              : IPOG
+    2022-2023 : Pós-Graduação em Engenharia e Qualidade de Software
+              : Senac Brasil
+    2023-2024 : Bacharelado em Letras - Francês
+              : Universidade Federal de Goiás (UFG)
+    2024      : Mentoria CPO - Liderança de Produto
+              : IFTL
+    2025      : MBA em Engenharia de Software
+              : USP/Esalq (Em andamento)
 ```
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -106,7 +108,7 @@ timeline
 
 ---
 
-## � Pilares da Minha Atuação
+## 🏆 Pilares da Minha Atuação
 
 <div align="center">
 
