@@ -33,10 +33,9 @@ Minha atuação é focada em transformar a qualidade em um diferencial competiti
 
 ### 📊 Estatísticas e Atividade
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucgonp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucgonp&layout=compact&langs_count=7&theme=dracula" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucgonp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucgonp&layout=compact&theme=dracula)
 
 ---
 
