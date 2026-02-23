@@ -137,6 +137,8 @@ timeline
 
 <br/>
 
+---
+
 *"A redução drástica nos cancelamentos foi resultado direto da implementação de uma cultura de Shift-Left Testing e automação estratégica."*
 
 </div>
