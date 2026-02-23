@@ -137,16 +137,6 @@ timeline
 
 <br/>
 
-### 📉 Tendência de Cancelamentos por Bug (Mensal)
-
-```mermaid
-xychart-beta
-    title "Tendência de Cancelamentos por Bug"
-    x-axis [Jan, Fev, Mar, Abr, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez]
-    y-axis "Quantidade" 0 --> 30
-    line [30, 23, 22, 19, 10, 5, 3, 3, 3, 0, 0, 0]
-```
-
 *"A redução drástica nos cancelamentos foi resultado direto da implementação de uma cultura de Shift-Left Testing e automação estratégica."*
 
 </div>
