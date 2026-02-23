@@ -123,6 +123,32 @@ timeline
 
 ---
 
+## 🚀 Resultados & Impacto Real
+
+> Qualidade não é teoria — aqui estão números reais de projetos onde atuei como consultor e Head of QA.
+
+<div align="center">
+
+| Métrica | Antes | Depois | Impacto |
+|:---:|:---:|:---:|:---:|
+| ⚡ **Frequência de Deploy** | 1 release a cada 15 dias | Até **3 versões por dia** | **+2.100% de velocidade** |
+| ❌ **Cancelamentos por lentidão** | Recorrentes | Redução significativa | **Retenção de clientes** |
+| 🔍 **Visibilidade de Cobertura** | Desconhecida | **% monitorada em tempo real** | **Decisões baseadas em dados** |
+
+</div>
+
+<div align="center">
+
+```
+⚡ 15 dias → 3x/dia        ✅ Churn reduzido           📊 Cobertura monitorada
+────────────────────        ──────────────────           ───────────────────────
+Deploy mais rápido          Clientes retidos             Times orientados a dados
+```
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:1A1A2E,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
