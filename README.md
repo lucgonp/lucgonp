@@ -139,12 +139,6 @@ timeline
 
 ---
 
-*"A redução drástica nos cancelamentos foi resultado direto da implementação de uma cultura de Shift-Left Testing e automação estratégica."*
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:1A1A2E,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
