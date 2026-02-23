@@ -129,6 +129,6 @@ timeline
 
 *"A qualidade não é um ato, é um hábito."* — Aristóteles
 
-**💬 Quer transformar a qualidade da sua empresa? [Vamos conversar!](mailto:lucpontespereira@gmail.com)**
+**💬 Quer transformar a qualidade da sua empresa? [E-mail](mailto:lucpontespereira@gmail.com) • [WhatsApp](https://wa.me/5562983320654)**
 
 </div>
